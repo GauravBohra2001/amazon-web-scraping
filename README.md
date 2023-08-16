@@ -10,6 +10,6 @@ The Amazon Web Scraping project is a Python script that extracts information abo
    - BeautifulSoup library
    - pandas library
 
-3. Open the `main.py` file and modify the `URL` variable to specify the Amazon UK search page URL for the desired book category.
+3. Open the `Amazon_Webscrapping_Project.ipynb` file and modify the `URL` variable to specify the Amazon UK search page URL for the desired book category.
 
 4. Run the script to scrape the webpage and extract book details.
